@@ -1,1 +1,2 @@
 https://spring.io/guides/gs/gradle/#_build_your_project_with_gradle_wrapper
+https://spring.io/guides/gs/spring-boot/#scratch
